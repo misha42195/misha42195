@@ -116,4 +116,3 @@
     </a>
   </p>
 
-  <sub>Moscow, Russia · 🟢 Open to remote</sub>
