@@ -2,7 +2,7 @@
 
   # Mikhail Aptraev
 
-  **Python Backend Developer · FastAPI · Async · Highload · Marketplaces**
+  **Python Backend Developer · FastAPI · Async · Marketplaces**
 
   📍 Moscow, Russia · 🟢 Open to remote
 
