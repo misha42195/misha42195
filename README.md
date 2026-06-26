@@ -34,40 +34,28 @@
   ## 🛠 Tech Stack
 
   <p align="left">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=p
-  ython&logoColor=white" alt="Python"/>
-    <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=
-  fastapi&logoColor=white" alt="FastAPI"/>
-    <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=d
-  jango&logoColor=white" alt="Django"/>
-    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&lo
-  go=postgresql&logoColor=white" alt="PostgreSQL"/>
-    <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=re
-  dis&logoColor=white" alt="Redis"/>
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=d
-  ocker&logoColor=white" alt="Docker"/>
-    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=li
-  nux&logoColor=black" alt="Linux"/>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge" 
+  alt="Python"/>
+    <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge" 
+  alt="FastAPI"/>
+    <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge" 
+  alt="Django"/>
+    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge" 
+  alt="PostgreSQL"/>
+    <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge" 
+  alt="Redis"/>
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge" 
+  alt="Docker"/>
   </p>
 
   <p align="left">
-    <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo
-  =rabbitmq&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Sanic-20232A?style=for-the-badge&logo=sa
-  nic&logoColor=white"/>
-    <img src="https://img.shields.io/badge/aiohttp-2C5BB4?style=for-the-badge&logo=
-  aiohttp&logoColor=white"/>
-    <img src="https://img.shields.io/badge/pytest-0A9EDC?style=for-the-badge&logo=p
-  ytest&logoColor=white"/>
-    <img src="https://img.shields.io/badge/mypy-checked-blue?style=for-the-badge"/>
-    <img src="https://img.shields.io/badge/ruff-enabled-ef4e2a?style=for-the-badge&
-  logo=ruff&logoColor=white"/>
-    <img src="https://img.shields.io/badge/K8s-basics-326CE5?style=for-the-badge&lo
-  go=kubernetes&logoColor=white"/>
+    <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/aiohttp-2C5BB4?style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/pytest-0A9EDC?style=for-the-badge"/>
   </p>
 
-  <sub>Python · FastAPI · Sanic · PostgreSQL · Redis · RabbitMQ · Celery · asyncio
-  · aiohttp · Docker · pytest · mypy · ruff · GitHub Actions</sub>
+  <sub>Python · FastAPI · PostgreSQL · Redis · RabbitMQ · Asyncio · Aiohttp ·
+  Docker · Pytest</sub>
 
   ---
 
@@ -105,20 +93,12 @@
   ## 📫 Contact
 
   <p align="left">
-    <a href="https://t.me/mi42195">
-      <img src="https://img.shields.io/badge/Telegram-@mi42195-2CA5E0?style=for-the
-  -badge&logo=telegram&logoColor=white"/>
-    </a>
-    <a href="mailto:sadikow.misha1@gmail.com">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=
-  gmail&logoColor=white"/>
-    </a>
-    <a href="https://hh.ru/resume/9c0fa305ff0daccfd70039ed1f5568374e326c">
-      <img
-  src="https://img.shields.io/badge/hh.ru-resume-FF0000?style=for-the-badge"/>
-    </a>
-    <a href="https://github.com/misha42195">
-      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo
-  =github&logoColor=white"/>
-    </a>
+    <a href="https://t.me/sadikowmi"><img 
+  src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge"/></a>
+    <a href="mailto:sadikow.misha1@gmail.com"><img 
+  src="https://img.shields.io/badge/Email-D14836?style=for-the-badge"/></a>
+    <a href="https://hh.ru/resume/9c0fa305ff0daccfd70039ed1f5568374e326c"><img 
+  src="https://img.shields.io/badge/hh.ru-resume-FF0000?style=for-the-badge"/></a>
+    <a href="https://github.com/misha42195"><img 
+  src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge"/></a>
   </p>
