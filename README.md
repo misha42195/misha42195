@@ -100,5 +100,4 @@
     <a href="https://hh.ru/resume/9c0fa305ff0daccfd70039ed1f5568374e326c"><img 
   src="https://img.shields.io/badge/hh.ru-resume-FF0000?style=for-the-badge"/></a>
     <a href="https://github.com/misha42195"><img 
-  src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge"/></a>
   </p>
