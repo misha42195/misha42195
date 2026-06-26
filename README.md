@@ -1,8 +1,8 @@
 <div align="center">
 
-  # Mikhail Aptraev
+  # Михаил Аптраев
 
-  **Python Backend Developer · FastAPI · Async · Marketplaces**
+  **Python Backend Developer · FastAPI · Async · Highload · Marketplaces**
 
   📍 Moscow, Russia · 🟢 Open to remote
 
@@ -20,53 +20,13 @@
 
   ---
 
-  ## 🌍 English
-
-  Backend developer with 3+ years of experience building production services in
-  Python.
-  Focused on **FastAPI**, asynchronous task processing, PostgreSQL, and
-  integrations with marketplace APIs (Ozon, Wildberries, Yandex Market).
-
-  **What I work with daily**
-
-  - **Backend:** Python 3.10+, FastAPI, Sanic, asyncio, aiohttp
-  - **Datastores:** PostgreSQL, Redis, MongoDB
-  - **Async/queues:** RabbitMQ, Celery, custom event-driven services
-  - **Integrations:** REST APIs of marketplaces, CRM systems, internal corporate
-  services
-  - **Quality:** pytest, mypy, ruff, pre-commit, GitHub Actions, Docker, Docker
-  Compose, Kubernetes basics
-
-  **What I do**
-
-  - Design and ship backend services: REST APIs, microservice architecture
-  - Optimize SQL queries and database schema (composite indexes, query rewriting,
-  N+1 fixes, materialized views)
-  - Build event-driven notifications and sync pipelines (e.g. price updates across
-  multiple marketplaces with Telegram status updates)
-  - Write tests (100+ unit + integration tests, ~80% coverage on critical services)
-  - Code review, task decomposition, propose architectural solutions
-
-  **Selected projects** (see pinned below)
-
-  - **E-commerce automation platform** — backend services for marketplace
-  integration, price sync, notifications (FastAPI, PostgreSQL, RabbitMQ, Redis)
-  - **Event platform for conferences** — high-load registration microservice with
-  rate limiting and Redis caching
-  - **FastAPI Movie** — URL shortener with Redis cache, full quality pipeline (mypy
-  strict, ruff, pre-commit, CI)
-  - **SFMShop** — full-stack FastAPI shop with PostgreSQL, MongoDB, RabbitMQ,
-  Alembic migrations, k8s manifests
-
-  ---
-
-  ## 🇷🇺 Русский
+  ## Обо мне
 
   Backend-разработчик с опытом 3+ года в продуктовой разработке на Python.
   Специализация — **FastAPI**, асинхронная обработка задач, PostgreSQL, интеграции
   с маркетплейсами (Ozon, Wildberries, Яндекс Маркет).
 
-  **Стек**
+  ## Стек
 
   - **Backend:** Python 3.10+, FastAPI, Sanic, asyncio, aiohttp
   - **Хранилища:** PostgreSQL, Redis, MongoDB
@@ -75,30 +35,15 @@
   - **Качество кода:** pytest, mypy, ruff, pre-commit, GitHub Actions, Docker,
   Docker Compose, Kubernetes (базово)
 
-  **Что делаю**
+  ## Что делаю
 
   - Проектирую и развиваю backend-сервисы: REST API, микросервисная архитектура
   - Оптимизирую SQL-запросы и схему БД (композитные индексы, переписывание
   запросов, N+1, материализованные представления)
-  - Строю событийные пайплайны и уведомления (например, автосинхронизация цен по
-  маркетплейсам с уведомлением в Telegram)
+  - Строю событийные пайплайны и уведомления в реальном времени
   - Покрываю код тестами (100+ unit и интеграционных, ~80% покрытия на критичных
   сервисах)
   - Провожу code review, декомпозирую задачи, предлагаю архитектурные решения
-
-  **Избранные проекты** (см. pinned ниже)
-
-  - **Платформа автоматизации e-commerce** — backend для интеграции с
-  маркетплейсами, синхронизация цен, уведомления (FastAPI, PostgreSQL, RabbitMQ,
-  Redis)
-  - **Event-платформа для конференций** — высоконагруженный микросервис регистраций
-  с rate limiting и Redis-кэшем
-  - **FastAPI Movie** — URL-shortener с Redis, полный quality-pipeline (mypy
-  strict, ruff, pre-commit, CI)
-  - **SFMShop** — full-stack FastAPI магазин: PostgreSQL, MongoDB, RabbitMQ,
-  миграции Alembic, k8s-манифесты
-
-  ---
 
   ## 📊 GitHub stats
 
@@ -113,9 +58,7 @@
 
   </div>
 
-  ---
-
-  ## 📫 Контакты / Contacts
+  ## 📫 Контакты
 
   - **Telegram:** [@mi42195](https://t.me/mi42195)
   - **Email:** sadikow.misha1@gmail.com
