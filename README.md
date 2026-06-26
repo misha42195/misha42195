@@ -1,48 +1,48 @@
+## 👋 Привет, я Михаил
 
-  ## 👋 Hi, I'm Mikhail
+  Backend-разработчик с опытом 4+ года.
 
-  Backend Developer with 4+ years of experience.
+  Начинал с интеграций и автоматизации в сфере e-commerce, сейчас фокусируюсь на
+  высоконагруженных и событийно-ориентированных архитектурах.
 
-  Started with e-commerce integrations and automation, now focusing on highload and
-  event-driven architectures.
-
-  I understand the system end-to-end — from database schema and queues to
-  infrastructure — which helps me write reliable, production-ready code.
-
-  ---
-
-  ## 💼 What I do
-
-  - Build backend applications using Python (FastAPI)
-  - Optimize databases (PostgreSQL, indexing, query tuning)
-  - Implement async task processing (RabbitMQ, Celery, asyncio)
+  Понимаю систему целиком — от схемы базы данных и очередей до инфраструктуры — что
+  помогает мне писать надёжный, готовый к продакшену код.
 
   ---
 
-  ## 🚀 Projects
+  ## 💼 Чем я занимаюсь
 
-  ### 🛒 E-commerce automation platform
-
-  - Built a microservice for syncing products with marketplaces (Ozon, Wildberries,
-  Yandex Market)
-  - Implemented async task processing with Celery + RabbitMQ — moved heavy
-  operations to background, API stays fast
-  - Optimized SQL queries — from 3 sec to ~150 ms (20× faster)
-  - Built idempotent operations with retry — safe re-runs without duplicates
-  - Added real-time notifications via Telegram for marketplace price sync
-  - Wrote 100+ unit and integration tests — coverage grew from 25% to 82%
-
-  ### 🎟 Event platform for conferences
-
-  - Built high-load registration microservice for conference landing pages
-  - Optimized SQL queries — from 4 sec to ~80 ms
-  - Implemented rate limiting and Redis caching — database load reduced by 35%
-  - Conducted code review — caught 50+ critical bugs before merges
-  - Wrote 150+ unit tests — 82% coverage on critical service
+  - Разрабатываю backend-функциональность на Python (FastAPI)
+  - Оптимизирую базы данных (PostgreSQL, индексирование, оптимизация запросов)
+  - Внедряю асинхронную обработку задач (RabbitMQ, Celery, asyncio)
 
   ---
 
-  ## 🛠 Tech Stack
+  ## 🚀 Проекты
+
+  ### 🛒 Платформа автоматизации e-commerce
+
+  - Разработал микросервис синхронизации товаров с маркетплейсами (Ozon,
+  Wildberries, Яндекс Маркет)
+  - Внедрил асинхронную обработку задач (Celery + RabbitMQ) — тяжёлые операции ушли
+  в фон, API остался отзывчивым
+  - Оптимизировал SQL-запросы — с 3 сек до ~150 мс (в 20 раз быстрее)
+  - Реализовал идемпотентные операции с retry — безопасные повторные запуски без
+  дублей
+  - Добавил real-time уведомления через Telegram о синхронизации цен
+  - Написал 100+ unit и интеграционных тестов — покрытие выросло с 25% до 82%
+
+  ### 🎟 Event-платформа для конференций
+
+  - Разработал высоконагруженный микросервис регистраций для лендингов конференций
+  - Оптимизировал SQL-запросы — с 4 сек до ~80 мс
+  - Внедрил rate limiting и кэширование в Redis — нагрузка на БД снизилась на 35%
+  - Проводил code review — поймал 50+ критичных багов до мержей
+  - Написал 150+ unit-тестов — 82% покрытия критичного сервиса
+
+  ---
+
+  ## 🛠 Технологический стек
 
   <p align="left">
     <img src="https://skillicons.dev/icons?i=python,fastapi,django,postgres,redis,d
@@ -73,30 +73,30 @@
 
   ## ⚡ Engineering focus
 
-  - Performance and bottlenecks
-  - Async processing and queues
-  - Reliability, retry, idempotency
-  - Code quality and operational processes
+  - Производительность и узкие места
+  - Асинхронная обработка и очереди
+  - Надёжность, retry, идемпотентность
+  - Качество кода и операционные процессы
 
   ---
 
-  ## 📈 Currently learning
+  ## 📈 В настоящее время учусь
 
   - DevOps (CI/CD, IaC)
   - AWS
-  - Scalable architectures
+  - Масштабируемые архитектуры
 
   ---
 
-  ## 🎯 Goals
+  ## 🎯 Цели
 
-  - Backend Developer / DevOps Engineer role
-  - Work with distributed systems
-  - Open to international opportunities 🌍
+  - Вакансия: Backend-разработчик / DevOps-инженер
+  - Работа с распределёнными системами
+  - Открыт для международных возможностей 🌍
 
   ---
 
-  ## 📫 Contact
+  ## 📫 Контакты
 
   <p align="left">
     <a href="https://t.me/mi42195">
@@ -109,7 +109,7 @@
     </a>
     <a href="https://hh.ru/resume/9c0fa305ff0daccfd70039ed1f5568374e326c">
       <img
-  src="https://img.shields.io/badge/hh.ru-resume-FF0000?style=for-the-badge"/>
+  src="https://img.shields.io/badge/hh.ru-резюме-FF0000?style=for-the-badge"/>
     </a>
     <a href="https://github.com/misha42195">
       <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo
