@@ -1,4 +1,3 @@
-
   ## 👋 Hi, I'm Mikhail
 
   Backend Developer with 4+ years of experience.
@@ -7,27 +6,46 @@
   event-driven architectures.
 
   I understand the system end-to-end — from database schema and queues to
-  infrastructure and deployment pipelines — which helps me write reliable,
-  production-ready code.
+  infrastructure — which helps me write reliable, production-ready code.
 
   ---
 
   ## 💼 What I do
 
-  - Design and ship backend services (REST APIs, microservices)
-  - Optimize SQL queries and DB schema (indexes, N+1 fixes, materialized views)
-  - Build event-driven pipelines and real-time notifications
+  - Build backend services using Python (FastAPI)
+  - Optimize databases (PostgreSQL, indexing, query tuning)
   - Implement async task processing (RabbitMQ, Celery, asyncio)
-  - Write tests (100+ unit and integration, ~80% coverage on critical services)
-  - Conduct code review, decompose tasks, propose architectural solutions
+
+  ---
+
+  ## 🚀 Projects
+
+  ### 🛒 E-commerce automation platform
+
+  - Built a microservice for syncing products with marketplaces (Ozon, Wildberries,
+  Yandex Market)
+  - Implemented async task processing with Celery + RabbitMQ — moved heavy
+  operations to background, API stays fast
+  - Optimized SQL queries — from 3 sec to ~150 ms (20× faster)
+  - Built idempotent operations with retry — safe re-runs without duplicates
+  - Added real-time notifications via Telegram for marketplace price sync
+  - Wrote 100+ unit and integration tests — coverage grew from 25% to 82%
+
+  ### 🎟 Event platform for conferences
+
+  - Built high-load registration microservice for conference landing pages
+  - Optimized SQL queries — from 4 sec to ~80 ms
+  - Implemented rate limiting and Redis caching — database load reduced by 35%
+  - Conducted code review — caught 50+ critical bugs before merges
+  - Wrote 150+ unit tests — 82% coverage on critical service
 
   ---
 
   ## 🛠 Tech Stack
 
   <p align="left">
-    <img src="https://skillicons.dev/icons?i=python,fastapi,postgres,redis,docker,l
-  inux,git,github" />
+    <img src="https://skillicons.dev/icons?i=python,fastapi,django,postgres,redis,d
+  ocker,linux" />
   </p>
 
   <p align="left">
@@ -57,7 +75,23 @@
   - Performance and bottlenecks
   - Async processing and queues
   - Reliability, retry, idempotency
-  - Code quality and deployment workflows
+  - Code quality and operational processes
+
+  ---
+
+  ## 📈 Currently learning
+
+  - DevOps (CI/CD, IaC)
+  - AWS
+  - Scalable architectures
+
+  ---
+
+  ## 🎯 Goals
+
+  - Backend Developer / DevOps Engineer role
+  - Work with distributed systems
+  - Open to international opportunities 🌍
 
   ---
 
@@ -83,5 +117,3 @@
   </p>
 
   <sub>Moscow, Russia · 🟢 Open to remote</sub>
-
-  <sub>Last updated: 2026-06-26</sub>
