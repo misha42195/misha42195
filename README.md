@@ -1,3 +1,4 @@
+
   ## 👋 Hi, I'm Mikhail
 
   Backend Developer with 4+ years of experience.
@@ -12,7 +13,7 @@
 
   ## 💼 What I do
 
-  - Build backend services using Python (FastAPI)
+  - Build backend applications using Python (FastAPI)
   - Optimize databases (PostgreSQL, indexing, query tuning)
   - Implement async task processing (RabbitMQ, Celery, asyncio)
 
@@ -115,4 +116,3 @@
   =github&logoColor=white"/>
     </a>
   </p>
-
