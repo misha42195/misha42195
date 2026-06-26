@@ -28,12 +28,12 @@
 
   ## Стек
 
-  - **Backend:** Python 3.10+, FastAPI, Sanic, asyncio, aiohttp
+  - **Backend:** Python, FastAPI, Sanic, asyncio, aiohttp
   - **Хранилища:** PostgreSQL, Redis, MongoDB
   - **Асинхронность/очереди:** RabbitMQ, Celery, событийные сервисы
   - **Интеграции:** REST API маркетплейсов, CRM, внутренние корпоративные системы
   - **Качество кода:** pytest, mypy, ruff, pre-commit, GitHub Actions, Docker,
-  Docker Compose, Kubernetes (базово)
+  Docker Compose
 
   ## Что делаю
 
