@@ -1,4 +1,4 @@
-  ## 👋 Hi, I'm Mikhail
+## 👋 Hi, I'm Mikhail
 
   Backend Developer with 4+ years of experience.
 
@@ -34,18 +34,20 @@
   ## 🛠 Tech Stack
 
   <p align="left">
-    <img src="https://skillicons.dev/icons?i=python,fastapi,django,postgres,redis,d
-  ocker,linux" />
-  </p>
-
-  <p align="left">
-    <img src="https://skillicons.dev/icons?i=python,fastapi,django,postgres,redis,d
-  ocker,linux" />
-  </p>
-
-  <p align="left">
-    <img src="https://skillicons.dev/icons?i=python,fastapi,django,postgres,redis,d
-  ocker,linux" />
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=p
+  ython&logoColor=white" alt="Python"/>
+    <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=
+  fastapi&logoColor=white" alt="FastAPI"/>
+    <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=d
+  jango&logoColor=white" alt="Django"/>
+    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&lo
+  go=postgresql&logoColor=white" alt="PostgreSQL"/>
+    <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=re
+  dis&logoColor=white" alt="Redis"/>
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=d
+  ocker&logoColor=white" alt="Docker"/>
+    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=li
+  nux&logoColor=black" alt="Linux"/>
   </p>
 
   <p align="left">
