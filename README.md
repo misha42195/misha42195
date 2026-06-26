@@ -55,8 +55,8 @@
   go=kubernetes&logoColor=white"/>
   </p>
 
-  <sub>Python 3.10+ · FastAPI · Sanic · PostgreSQL · Redis · RabbitMQ · Celery ·
-  asyncio · aiohttp · Docker · pytest · mypy · ruff · Kubernetes · GitHub
+  <sub>Python · FastAPI · Sanic · PostgreSQL · Redis · RabbitMQ · Celery ·
+  asyncio · aiohttp · Docker · pytest · mypy · ruff · GitHub
   Actions</sub>
 
   ---
