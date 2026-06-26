@@ -5,8 +5,7 @@
   **Python Backend Developer · FastAPI · Async · Highload · Marketplaces**
 
   📍 Moscow, Russia · 🟢 Open to remote
-
-<a href="https://t.me/mi42195"><img src="https://img.shields.io/badge/Telegram-2C
+  <a href="https://t.me/mi42195"><img src="https://img.shields.io/badge/Telegram-2C
   A5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
   <a href="mailto:sadikow.misha1@gmail.com"><img src="https://img.shields.io/badge/
   Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
