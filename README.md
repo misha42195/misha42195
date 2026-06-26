@@ -1,4 +1,3 @@
-
   ## 👋 Hi, I'm Mikhail
 
   Backend Developer with 4+ years of experience.
@@ -33,6 +32,16 @@
   ---
 
   ## 🛠 Tech Stack
+
+  <p align="left">
+    <img src="https://skillicons.dev/icons?i=python,fastapi,django,postgres,redis,d
+  ocker,linux" />
+  </p>
+
+  <p align="left">
+    <img src="https://skillicons.dev/icons?i=python,fastapi,django,postgres,redis,d
+  ocker,linux" />
+  </p>
 
   <p align="left">
     <img src="https://skillicons.dev/icons?i=python,fastapi,django,postgres,redis,d
