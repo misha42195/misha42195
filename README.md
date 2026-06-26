@@ -1,7 +1,7 @@
 
   ## 👋 Hi, I'm Mikhail
 
-  Backend Developer with 3+ years of experience.
+  Backend Developer with 4+ years of experience.
 
   Started with e-commerce integrations and automation, now focusing on highload and
   event-driven architectures.
