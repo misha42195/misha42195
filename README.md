@@ -6,19 +6,16 @@
 
   📍 Moscow, Russia · 🟢 Open to remote
 
-  [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&log
-  o=telegram&logoColor=white)](https://t.me/mi42195)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmai
-  l&logoColor=white)](mailto:sadikow.misha1@gmail.com)
-  [![HH](https://img.shields.io/badge/hh.ru-FF0000?style=for-the-badge&logo=hackthe
-  box&logoColor=white)](https://hh.ru/resume/9c0fa305ff0daccfd70039ed1f5568374e326c
-  )
-  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=gi
-  thub&logoColor=white)](https://github.com/misha42195)
-
-  </div>
-
-  ---
+<a href="https://t.me/mi42195"><img src="https://img.shields.io/badge/Telegram-2C
+  A5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
+  <a href="mailto:sadikow.misha1@gmail.com"><img src="https://img.shields.io/badge/
+  Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://hh.ru/resume/9c0fa305ff0daccfd70039ed1f5568374e326c"><img 
+  src="https://img.shields.io/badge/hh.ru-FF0000?style=for-the-badge&logo=hackthebo
+  x&logoColor=white" alt="HH"></a>
+  <a href="https://github.com/misha42195"><img src="https://img.shields.io/badge/Gi
+  tHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+  
 
   ## Обо мне
 
